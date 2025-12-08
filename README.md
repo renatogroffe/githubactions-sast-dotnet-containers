@@ -20,3 +20,7 @@ Artefato (arquivo .pdf) gerado durante a execução da ferramenta KICS:
 Alertas de segurança no relatório gerado pelo KICS:
 
 ![Alertas do KICS](img/sast-erros-04.png)
+
+Os problemas a serem corrigidos foram marcados como TO-DOs:
+
+![Problemas a serem corrigidos](img/to-dos-01.png)
