@@ -28,3 +28,8 @@ Os problemas a serem corrigidos foram marcados como TO-DOs:
 Para facilitar isto fez uso das extensões [**Todo Tree**](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree) e [**TODO Highlight**](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
 
 ![Extensões do Visual Studio Code indicadas](img/vscode-01.png)
+
+Workflow executado com sucesso após correções:
+
+![Workflow executado após correções](img/correcoes-01.png)
+
