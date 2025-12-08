@@ -24,3 +24,7 @@ Alertas de segurança no relatório gerado pelo KICS:
 Os problemas a serem corrigidos foram marcados como TO-DOs:
 
 ![Problemas a serem corrigidos](img/to-dos-01.png)
+
+Para facilitar isto fez uso das extensões [**Todo Tree**](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree) e [**TODO Highlight**](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
+
+![Extensões do Visual Studio Code indicadas](img/vscode-01.png)
