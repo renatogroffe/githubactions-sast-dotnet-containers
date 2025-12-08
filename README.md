@@ -13,7 +13,7 @@ Em que foram apontados os seguintes problemas de segurança:
 
 ![Problemas de segurança](img/sast-erros-02.png)
 
-Artefato (arquivo .pdf) gerado durante a execução da ferramenta KICS:
+Artefato (arquivo .pdf) gerado durante a execução da ferramenta [**KICS**](https://kics.io/index.html):
 
 ![Artefato do KICS](img/sast-erros-03.png)
 
@@ -33,3 +33,10 @@ Workflow executado com sucesso após correções:
 
 ![Workflow executado após correções](img/correcoes-01.png)
 
+Testes executados com sucesso utilizando um cluster emulado via [**kind**](https://kind.sigs.k8s.io/):
+
+![Testes via kind](img/correcoes-02.png)
+
+Alertas de segurança solucionados:
+
+![Alertas solucionados](img/correcoes-03.png)
